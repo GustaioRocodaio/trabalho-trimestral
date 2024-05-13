@@ -1,0 +1,180 @@
+.iron {
+
+    color: gold;
+
+text-align: center;    }
+    
+    .Ban {
+    
+    color: gold;
+    
+text-align: center;
+
+
+    }
+    
+    .men {
+    
+    color: gold;
+    
+    }
+    
+    
+    .bioban {
+
+text-align: center;
+
+    }
+
+
+    body {
+
+
+    color: honeydew;
+    text-emphasis-color: gold;
+
+        background-color: black;
+    
+    }
+
+.albuns  {
+
+color: gold;
+
+text-align: center;
+
+}
+
+    .albuns img {
+
+max-width: 200px;
+
+text-align: center;
+    }
+
+
+  .canal {
+
+text-align: left;
+
+border-bottom: azure;
+
+color: gold;
+
+border-color: aliceblue;
+  
+
+border-radius: 60%;
+
+
+}
+
+.loja { 
+
+text-align: center;
+
+color: gold;
+
+color-scheme: gold;
+
+text-decoration: none;
+
+
+
+
+
+}
+
+
+
+a {
+
+text-decoration: none;
+
+color: gold;
+
+
+}
+
+
+.canal img {
+
+
+border-radius: 80px;
+
+}
+
+
+
+
+
+.eddie {
+
+text-align: center;
+
+
+}
+
+
+
+
+h1 {
+
+color: gold;
+
+}
+
+
+
+
+footer {
+
+    background-color: #010101;
+    height: 80px;
+    width: 1800px;
+    position: relative;
+    z-index: 999;
+    margin-left: auto; /* linha modificada */
+    margin-right: auto; /* linha adicionada */
+
+    align-items: right;
+
+
+
+}
+
+.ingressos h1 {
+
+text-align: right;
+
+height: 180px;
+    width: 1800px;
+margin-top: auto;
+
+}
+
+
+
+
+
+
+
+footer h1{
+
+
+text-align: center;
+
+
+}
+
+div.box {
+
+    
+    display: inline-block;
+}
+
+.canal span {
+
+text-align: left;
+
+}
